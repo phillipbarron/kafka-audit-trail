@@ -10,7 +10,7 @@ $ sbt
 
 launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
 
-### todo
+## todo ##
 
 * Create Kafka client - complete
 * Add dockerfile to integrate test cluster to consume from
