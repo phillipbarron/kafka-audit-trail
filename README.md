@@ -1,6 +1,6 @@
 # scalatra-audit-trail #
 
-## Build & Run ##
+## Build & run app ##
 
 ```bash
 $ sbt
